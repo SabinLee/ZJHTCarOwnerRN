@@ -1,0 +1,36 @@
+
+{
+  "data": [
+    {
+    "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170823/1503456555_21530.jpg",
+    "jumpUrl" : "https://www.youoil.cn/webapp/commAct/index.html?productId=348&source=1"
+    },
+    {
+      "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170821/1503297344_14983.jpg",
+      "jumpUrl" : "http://183.232.43.134:9091/CNEPShop/Material/view.html?id=204"
+    },
+    {
+      "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170809/1502263952_89671.jpg",
+      "jumpUrl" : "https://www.youoil.cn/webapp/commAct/index.html?productId=338"
+    },
+    {
+      "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170815/1502766399_37380.jpg",
+      "jumpUrl" : "https://www.youoil.cn/webapp/commAct/index.html?productId=332&source=1"
+    },
+    {
+      "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170413/1492065434_51562.jpg",
+      "jumpUrl" : "http://183.232.43.134:9091/activities/hunanjiayou/buy.html"
+    },
+    {
+      "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170802/1501664363_65340.png",
+      "jumpUrl" : "https://m.ppmoney.com/H5Register/h5_zjht?utm_source=WHAN_JZ_zjht"
+    },
+    {
+      "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170807/1502088773_52634.jpg",
+      "jumpUrl" : "http://183.232.43.134:9091/CNEPShop/Material/view.html?id=200"
+    },
+    {
+      "imgPath" : "http://183.232.43.134:9092/Public/slideImg/20170428/1493371866_13311.jpg",
+      "jumpUrl" : "http://183.232.43.134:9091/Api/Insurance/homeIndex?pageName=A1"
+    }]
+}
